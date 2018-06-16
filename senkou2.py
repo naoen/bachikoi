@@ -1,6 +1,6 @@
 ﻿import cv2
 
-cascade_path = r'C:\Users\lamp\tutorial\opencv\sources\data\haarcascades\haarcascade_frontalface_default.xml'
+cascade_path = r'C:\Users\lamp\tutorial\aaaa\haarcascade_frontalface_default.xml
 
 
 # 使用ファイルと入出力ディレクトリ
